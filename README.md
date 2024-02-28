@@ -1,3 +1,6 @@
+![Screenshot_20240227-145852](https://github.com/webinstall/webi-installers/assets/119912536/440aec7b-41a6-44ec-9128-f89e245499e0)
+![Screenshot_20240227-145909](https://github.com/webinstall/webi-installers/assets/119912536/3bcbc050-28e4-469f-a5e2-aab1657b5ca6)
+![Screenshot_20240227-145924](https://github.com/webinstall/webi-installers/assets/119912536/1a8e2247-33a4-4cda-bd23-5404441f398f)
 # [webi-installers](https://github.com/webinstall/webi-installers)
 
 > [webi](https://webinstall.dev) is how developers install their tools
